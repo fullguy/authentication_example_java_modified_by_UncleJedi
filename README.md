@@ -10,8 +10,9 @@
 - 이 외에 자잘한 수정들..oTL
 <br><br>
 ### [예제 테스트 방법]
-0. H2용 authentication_example.mv.db 파일을 윈도우 사용자 계정 폴더에 생성<br>
+1. H2용 authentication_example.mv.db 파일을 윈도우 사용자 계정 폴더에 생성<br>
   ( 예: C:\Users\[계정명]\ )
+2. H2 DB Server 모드로 실행 ([이 포스트 참조](https://blog.naver.com/jedikim72/223540382961))
 1. 프로젝트 실행
 2. http://localhost:8080/ 로 웹브라우징
 3. 위에서 아래 순서로 테스트 진행
